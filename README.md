@@ -9,6 +9,7 @@ List of english speaking telegram channels and groups
 * [KDE neon users](https://t.me/kdeneon) — Community of KDE neon
 * [IT Security Talk](https://t.me/itsectalk) – IT Security Talk
 * [English](https://t.me/eng_for_rus) — Learning english russian group
+* [Python](https://t.me/pythongroup) — Community of Python developers
 
 ## channels
 * [Fedora Project News](https://t.me/fedoranews) — Fedora linux news
