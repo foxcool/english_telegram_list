@@ -11,6 +11,8 @@ List of english speaking telegram channels and groups
 * [English](https://t.me/eng_for_rus) — Learning english russian group
 * [Python](https://t.me/pythongroup) — Community of Python developers
 
+* [Bittrex Trollbox)](https://t.me/BittrexTroll)
+
 ## channels
 * [Fedora Project News](https://t.me/fedoranews) — Fedora linux news
 * [Hacker News En](https://t.me/hacker_news_feed) — Hacker News
