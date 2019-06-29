@@ -21,4 +21,4 @@ List of english speaking telegram channels and groups
 * [Fedora Project News](https://t.me/fedoranews) — Fedora linux news
 * [Hacker News En](https://t.me/hacker_news_feed) — Hacker News
 * [Crypto Groups](https://t.me/Crypto) - List of crypto groups
-* [Engineer Addict](https://t.me/EngineerAddict) - Electronics and Engineering, new, articles, videos and podcasts in various topics.
+* [Engineer Addict](https://t.me/EngineerAddict) - Electronics and Engineering, news, articles, videos and podcasts in various topics.
