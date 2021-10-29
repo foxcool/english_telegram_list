@@ -22,3 +22,4 @@ List of english speaking telegram channels and groups
 * [Hacker News En](https://t.me/hacker_news_feed) — Hacker News
 * [Crypto Groups](https://t.me/Crypto) - List of crypto groups
 * [Engineer Addict](https://t.me/EngineerAddict) - Electronics and Engineering, news, articles, videos and podcasts in various topics.
+* [CatOps](https://t.me/catops) — News and notes about DevOps, SRE, and more.
